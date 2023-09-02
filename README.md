@@ -18,7 +18,7 @@ Visualization: Visualizing the data and model outcomes.
 #### Getting Started
 To get started with the Titanic Disaster Machine Learning project, follow these steps:
 1- Clone the repository to your local machine:
-```css
+```bash
 https://github.com/HappyLife2/Titanic-Disaster-Machine-Learning.git
 ```
 
